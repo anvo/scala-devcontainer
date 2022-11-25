@@ -10,6 +10,9 @@ quickly started or try our Scala.
 To run the devcontainer, check out the the git repository, open the folder in
 VS Code and execute the task `>Dev Containers: Open Folder in Container...`.
 
+You can also use GitHub Codespaces to run the devcontainer. On GitHub, open the
+git repository, click on `Code`, then `Codespaces`, and select `Create codespace
+on main`.
 
 ## Starting a Scala script
 
